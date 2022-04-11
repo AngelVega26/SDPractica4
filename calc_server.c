@@ -29,7 +29,7 @@ resta_1_svc(numeros *argp, struct svc_req *rqstp)
 }
 
 float *
-multp_1_svc(numeros *argp, struct svc_req *rqstp)
+multp_1_svc(numeros *argp, struct svc_req *rqstp)//
 {
 	static float  result;
 
