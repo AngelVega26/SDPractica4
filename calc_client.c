@@ -58,7 +58,7 @@ if(Operacion=='+')
  		clnt_perror (clnt, "call failed");
  		}
 
- 		return *result_3;
+ 		return *result_3;//
 		}	else if(Operacion=='/')
 			{
  
